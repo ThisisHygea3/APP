@@ -8,8 +8,8 @@ const Header = ({title}) => {
                 <LitLogo
                 cursorPointer={true}
                 onClick={() => {console.log();}}
-                title="Lit Protocol"
-                subtitle="x Bundlr/Arweave Example"
+                title="Hygea3"
+                subtitle="Store Your Medical Files"
                 />
             </div>
 
