@@ -353,7 +353,7 @@ export default function Home() {
 
       {/* ----- Header ----- */}
       <Header
-        title="Here's an example of how to use Bundlr / Arweave with Lit."
+        title="Upload Your Medicals Files Here."
       />
 
       {/* ==================== Prerequisite ==================== */}
